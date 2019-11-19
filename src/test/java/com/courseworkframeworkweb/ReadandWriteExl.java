@@ -29,10 +29,11 @@ public class ReadandWriteExl {
 		int rowcount=sheet1.getLastRowNum();
 		System.out.println("rowcount is  "+rowcount);
 		
-		for (int i=0;i<rowcount;i++)
+		for (int i=0;i<=rowcount;i++)
 		{
-			String data0=sheet1.getRow(0).getCell(0).getStringCellValue();
-			System.out.println("data from row"+i+" is "+data0);
+			String data0=sheet1.getRow(i).getCell(0).getStringCellValue();
+			String data1=sheet1.getRow(i).getCell(1).getStringCellValue();
+			System.out.println("data from row"+i+" is "+data0+data1);
 		}
 //		// read row and column -- use below method 
 //		// getstringcell value gives string value so storing in string.
