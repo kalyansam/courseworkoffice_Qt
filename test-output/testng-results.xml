@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="216" started-at="2019-11-19T04:41:07Z" finished-at="2019-11-19T04:41:07Z">
+  <suite name="Default suite" duration-ms="198" started-at="2019-11-19T05:00:45Z" finished-at="2019-11-19T05:00:45Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="216" started-at="2019-11-19T04:41:07Z" finished-at="2019-11-19T04:41:07Z">
+    <test name="Default test" duration-ms="198" started-at="2019-11-19T05:00:45Z" finished-at="2019-11-19T05:00:45Z">
       <class name="com.courseworkframeworkweb.ReadandWriteExl">
-        <test-method status="PASS" signature="readexcel()[pri:0, instance:com.courseworkframeworkweb.ReadandWriteExl@6a41eaa2]" name="readexcel" duration-ms="183" started-at="2019-11-19T04:41:07Z" finished-at="2019-11-19T04:41:07Z">
+        <test-method status="PASS" signature="readexcel()[pri:0, instance:com.courseworkframeworkweb.ReadandWriteExl@6a41eaa2]" name="readexcel" duration-ms="169" started-at="2019-11-19T05:00:45Z" finished-at="2019-11-19T05:00:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readexcel -->
