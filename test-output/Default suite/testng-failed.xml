@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.courseworkframeworkweb.ReadandWriteExl">
+      <class name="com.courseworkReadlibrary.readexceldatareusable">
         <methods>
-          <include name="readexcel"/>
+          <include name="main"/>
         </methods>
-      </class> <!-- com.courseworkframeworkweb.ReadandWriteExl -->
+      </class> <!-- com.courseworkReadlibrary.readexceldatareusable -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

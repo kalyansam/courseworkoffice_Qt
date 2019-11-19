@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="198" started-at="2019-11-19T05:00:45Z" finished-at="2019-11-19T05:00:45Z">
+  <suite name="Default suite" duration-ms="209" started-at="2019-11-19T07:15:40Z" finished-at="2019-11-19T07:15:40Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="198" started-at="2019-11-19T05:00:45Z" finished-at="2019-11-19T05:00:45Z">
-      <class name="com.courseworkframeworkweb.ReadandWriteExl">
-        <test-method status="PASS" signature="readexcel()[pri:0, instance:com.courseworkframeworkweb.ReadandWriteExl@6a41eaa2]" name="readexcel" duration-ms="169" started-at="2019-11-19T05:00:45Z" finished-at="2019-11-19T05:00:45Z">
+    <test name="Default test" duration-ms="209" started-at="2019-11-19T07:15:40Z" finished-at="2019-11-19T07:15:40Z">
+      <class name="com.courseworkReadlibrary.readexceldatareusable">
+        <test-method status="PASS" signature="main()[pri:0, instance:com.courseworkReadlibrary.readexceldatareusable@6a41eaa2]" name="main" duration-ms="180" started-at="2019-11-19T07:15:40Z" finished-at="2019-11-19T07:15:40Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- readexcel -->
-      </class> <!-- com.courseworkframeworkweb.ReadandWriteExl -->
+        </test-method> <!-- main -->
+      </class> <!-- com.courseworkReadlibrary.readexceldatareusable -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
